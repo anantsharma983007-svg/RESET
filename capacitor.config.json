@@ -1,0 +1,7 @@
+{
+  "appId": "com.aetherforge.reset",
+  "appName": "RE:SET",
+  "webDir": "www",
+  "backgroundColor": "#111214",
+  "android": { "allowMixedContent": false }
+}
